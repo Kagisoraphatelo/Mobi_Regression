@@ -47,8 +47,8 @@ public class dataDriven {
 		data[2][1] = "123456";
 
 		
-		System.out.println(data[0][0]);
-		System.out.println(data[0][1]);
+		/*System.out.println(data[0][0]);
+		System.out.println(data[0][1]);*/
 		return data;
 
 	}
